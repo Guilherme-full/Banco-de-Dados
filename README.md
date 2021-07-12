@@ -3,7 +3,7 @@
 ## Comando para clonar Repositório
 
 ```    
-gh repo clone Guilherme-full/Banco-de-Dados
+git clone https://github.com/Guilherme-full/Banco-de-Dados.git
 ```
 
 
